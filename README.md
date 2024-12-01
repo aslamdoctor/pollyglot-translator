@@ -1,8 +1,15 @@
-# React + Vite
+# PollyGlot Translator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Translator App using React & OpenAI API
 
-Currently, two official plugins are available:
+This app was created as a solo project build while doing [The AI Engineer Path](https://scrimba.com/the-ai-engineer-path-c02v) course at Scrimba.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Steps to run the app
+
+1. Rename `.env_copy` to `.env` and paste in your [OpenAI Api keys](https://platform.openai.com/docs/overview).
+2. Install packages & run the app.
+
+```
+npm install
+npm run dev
+```
