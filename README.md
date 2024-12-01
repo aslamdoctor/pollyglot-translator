@@ -13,3 +13,6 @@ This app was created as a solo project build while doing [The AI Engineer Path](
 npm install
 npm run dev
 ```
+
+### Demo
+![](https://github.com/aslamdoctor/pollyglot-translator/blob/main/demo.gif)
