@@ -15,4 +15,4 @@ npm run dev
 ```
 
 ### Demo
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/aslamdoctor/pollyglot-translator/blob/main/demo.gif)
